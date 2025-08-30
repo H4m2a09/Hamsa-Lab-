@@ -1,0 +1,32 @@
+System Monitoring For My Laptop 
+  HARDWARE: HP Laptop
+  SOFTWARE: Windows 10 
+OBJECTIVE: To monitor system performance using Task Manager and identify resource usage (CPU, Memory, Disk, and Network).
+
+1. Opened Task Manager 
+   * Shortcut: ctrl+shift+esc
+   * Navigated to the performance tab 
+2. Checked Resource Utilisation
+   * CPU fluctuating constantly
+   * Memory: Between 86-89% (=3.3/3.7GB)
+   * Disk: Fluctuates heavily — either close to 100% (dips slightly around that range) or 0% (dips slightly in that range)
+   * Wifi: * SSID: TP-LINK_E32E
+           * Type: 802.11n
+           * Signal: ~4bars
+           * Send:~0kps
+           * Receive:~0kps
+           * Connection Type: 802.11n
+           * Adapter Name: RTL8821CE 802.11ac
+    * GPU: 0% Intel(R) UHD Graphic 
+        
+Findings: CPU: Overall system load is very low; spikes likely caused by background processes or Task Manager polling. No sustained high CPU usage observed.
+          Memory: Memory usage is high relative to total available RAM. Running multiple browser tabs or background apps could lead to pressure on memory, potentially causing swapping or performance lag.
+          Disk: Disk activity is inconsistent. Occasional spikes may indicate background Windows processes or temporary file access. No consistent bottleneck observed.
+          Wifi: Network is idle during monitoring; stable connection with strong signal. Low utilization suggests no significant network load at this time.
+          GPU: Intel(R) UHD Graphics is idle; no GPU-intensive tasks running.
+
+Key Points Found In My System:
+    *System is under light load; CPU and GPU idle most of the time.
+    *Memory usage is high, which may affect performance if additional applications are launched.
+    *Disk activity shows spikes but no persistent bottleneck.
+    *Network is stable but inactive.
