@@ -1,5 +1,4 @@
 # Hamsa-Lab-# Hamsa-Lab-
-Hello World 
 Hi, I am Hamsa. Aspiring IT & DevOps enthusiast | Exploring system monitoring, cloud, and software development | Lifelong learner
 
 On this page, I highlight my projects and include a short overview of each, showing what I built and learned along the way.
