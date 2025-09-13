@@ -14,3 +14,6 @@ It was designed to improve security awareness and demonstrate the importance of 
 * Tech Misconceptions Poster
 This poster addresses common IT misconceptions (e.g., “Macs can’t get viruses”) and explains the reality in simple terms.
 It was created to show communication skills and the ability to make technical topics easy for everyone to understand.
+
+PASSWORD GENERATOR:
+Python script that generates secure, randomized passwords using letters, numbers, and symbols, improving awareness of strong authentication practices.
